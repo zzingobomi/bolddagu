@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Distribution / packaging
+*.egg-info/
+.eggs/
+dist/
+build/
+*.egg
+
+# Output / generated folders
+out/
+output/
+outputs/
+result/
+results/
+logs/
+temp/
+tmp/
+artifacts/
+
+# virtual environments
+venv/
+.venv/
+
+# vscode
+.vscode/

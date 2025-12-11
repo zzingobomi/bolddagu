@@ -1,0 +1,16 @@
+[project]
+name = "bolddagu"
+version = "0.1.0"
+description = ""
+requires-python = ">=3.11"
+
+dependencies = [
+    "numpy",
+    "opencv-python",
+    "open3d",
+    "torch",
+    "torchvision",
+    "trimesh>=4.10.1",
+    "urdfpy>=0.0.4",
+    "yourdfpy>=0.0.58",
+]
