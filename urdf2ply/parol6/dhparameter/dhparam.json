@@ -1,0 +1,50 @@
+[
+  {
+    "joint": 1,
+    "link": "Base",
+    "theta": "TH1",
+    "alpha": "-pi/2",
+    "a": "a2",
+    "d": "a1"
+  },
+  {
+    "joint": 2,
+    "link": "Shoulder",
+    "theta": "TH2 - pi/2",
+    "alpha": "Pi",
+    "a": "a3",
+    "d": "0"
+  },
+  {
+    "joint": 3,
+    "link": "Elbow",
+    "theta": "TH3 + pi",
+    "alpha": "pi/2",
+    "a": "-a4",
+    "d": "0"
+  },
+  {
+    "joint": 4,
+    "link": "Wrist1",
+    "theta": "TH4",
+    "alpha": "-pi/2",
+    "a": "0",
+    "d": "-a5"
+  },
+  {
+    "joint": 5,
+    "link": "Wrist2",
+    "theta": "TH5",
+    "alpha": "pi/2",
+    "a": "0",
+    "d": "0"
+  },
+  {
+    "joint": 6,
+    "link": "Wrist3",
+    "theta": "TH6 + pi",
+    "alpha": "Pi",
+    "a": "-a7",
+    "d": "-a6"
+  }
+]

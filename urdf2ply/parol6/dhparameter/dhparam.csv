@@ -1,0 +1,7 @@
+JOINT,LINK,theta,alpha,a(mm),d(mm)
+1,Base,TH1,-pi/2,a2,a1
+2,Shoulder,TH2 - pi/2,Pi,a3,0
+3,Elbow,TH3 + pi,pi/2,-a4,0
+4,Wrist1,TH4,-pi/2,0,-a5
+5,Wrist2,TH5,pi/2,0,0
+6,Wrist3,TH6 + pi,Pi,-a7,-a6
